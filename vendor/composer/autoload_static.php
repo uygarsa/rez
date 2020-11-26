@@ -409,6 +409,7 @@ class ComposerStaticIniteca60e431c598d99abb62fc5a4dcd080
         'App\\Providers\\BroadcastServiceProvider' => __DIR__ . '/../..' . '/app/Providers/BroadcastServiceProvider.php',
         'App\\Providers\\EventServiceProvider' => __DIR__ . '/../..' . '/app/Providers/EventServiceProvider.php',
         'App\\Providers\\RouteServiceProvider' => __DIR__ . '/../..' . '/app/Providers/RouteServiceProvider.php',
+        'App\\Table' => __DIR__ . '/../..' . '/app/Table.php',
         'App\\User' => __DIR__ . '/../..' . '/app/User.php',
         'App\\WorkingHours' => __DIR__ . '/../..' . '/app/WorkingHours.php',
         'BeyondCode\\DumpServer\\DumpServerCommand' => __DIR__ . '/..' . '/beyondcode/laravel-dump-server/src/DumpServerCommand.php',

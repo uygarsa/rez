@@ -7,7 +7,6 @@
         </div>
         <div class="panel-body">
             <div v-for="item in data">{{item}}</div>
-
         </div>
     </div>
 </template>
